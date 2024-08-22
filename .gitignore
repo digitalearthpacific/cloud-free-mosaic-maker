@@ -1,2 +1,5 @@
 *.tif
 *.xml
+coastlines
+*.zip
+*.qgz
